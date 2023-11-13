@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.0",
+  "Version": "1.0.1",
   "Categories": {
     "Colour and Tone": {
       "entries": [
@@ -13,7 +13,8 @@
         "Vibrant colors",
         "Warm tone"
       ],
-      "probability": 0.5
+      "probability": 0.5,
+      "multiselect": false
     },
     "Composition": {
       "entries": [
@@ -28,7 +29,8 @@
         "Surface detail",
         "Wide angle"
       ],
-      "probability": 0.7
+      "probability": 0.7,
+      "multiselect": false
     },
     "Concepts": {
       "entries": [
@@ -43,7 +45,8 @@
         "Nostalgic",
         "Simple"
       ],
-      "probability": 0.9
+      "probability": 0.9,
+      "multiselect": true
     },
     "Effects": {
       "entries": [
@@ -64,7 +67,8 @@
         "Ultraviolet",
         "Underwater"
       ],
-      "probability": 0.6
+      "probability": 0.6,
+      "multiselect": true
     },
     "Lighting": {
       "entries": [
@@ -78,7 +82,8 @@
         "Studio light",
         "Surreal lighting"
       ],
-      "probability": 0.6
+      "probability": 0.6,
+      "multiselect": false
     },
     "Materials": {
       "entries": [
@@ -98,7 +103,8 @@
         "Wood carving",
         "Yarn"
       ],
-      "probability": 0.4
+      "probability": 0.4,
+      "multiselect": true
     },
     "Movements": {
       "entries": [
@@ -129,7 +135,8 @@
         "Synthwave",
         "Vaporwave"
       ],
-      "probability": 0.8
+      "probability": 0.8,
+      "multiselect": true
     },
     "Techniques": {
       "entries": [
@@ -157,7 +164,8 @@
         "Stippling",
         "Watercolor"
       ],
-      "probability": 0.7
+      "probability": 0.7,
+      "multiselect": true
     },
     "Themes": {
       "entries": [
@@ -194,7 +202,8 @@
         "Vector look",
         "Wireframe"
       ],
-      "probability": 0.9
+      "probability": 0.9,
+      "multiselect": true
     }
   }
 }
