@@ -1,0 +1,200 @@
+{
+  "Version": "1.0.0",
+  "Categories": {
+    "Colour and Tone": {
+      "entries": [
+        "Black and white",
+        "Cool tone",
+        "Golden",
+        "Monochromatic",
+        "Muted color",
+        "Pastel color",
+        "Toned image",
+        "Vibrant colors",
+        "Warm tone"
+      ],
+      "probability": 0.5
+    },
+    "Composition": {
+      "entries": [
+        "Closeup",
+        "Knolling",
+        "Landscape photography",
+        "Macrophotography",
+        "Photographed through window",
+        "Shallow depth of field",
+        "Shot from above",
+        "Shot from below",
+        "Surface detail",
+        "Wide angle"
+      ],
+      "probability": 0.7
+    },
+    "Concepts": {
+      "entries": [
+        "Beautiful",
+        "Bohemian",
+        "Chaotic",
+        "Dais",
+        "Divine",
+        "Eclectic",
+        "Futuristic",
+        "Kitschy",
+        "Nostalgic",
+        "Simple"
+      ],
+      "probability": 0.9
+    },
+    "Effects": {
+      "entries": [
+        "Antique photo",
+        "Bioluminescent",
+        "Bokeh effect",
+        "Color explosion",
+        "Dark",
+        "Faded image",
+        "Fisheye",
+        "Gomori photography",
+        "Grainy film",
+        "Iridescent",
+        "Isometric",
+        "Misty",
+        "Neon",
+        "Otherworldly depiction",
+        "Ultraviolet",
+        "Underwater"
+      ],
+      "probability": 0.6
+    },
+    "Lighting": {
+      "entries": [
+        "Backlighting",
+        "Dramatic light",
+        "Golden hour",
+        "Harsh light",
+        "Long-time exposure",
+        "Low lighting",
+        "Multiexposure",
+        "Studio light",
+        "Surreal lighting"
+      ],
+      "probability": 0.6
+    },
+    "Materials": {
+      "entries": [
+        "3d patterns",
+        "Charcoal",
+        "Claymation",
+        "Fabric",
+        "Fur",
+        "Guilloche patterns",
+        "Layered paper",
+        "Made of metal",
+        "Marble",
+        "Origami",
+        "Paper mache",
+        "Polka-dot pattern",
+        "Strange patterns",
+        "Wood carving",
+        "Yarn"
+      ],
+      "probability": 0.4
+    },
+    "Movements": {
+      "entries": [
+        "Art deco",
+        "Art nouveau",
+        "Baroque",
+        "Bauhaus",
+        "Constructivism",
+        "Cubism",
+        "Cyberpunk",
+        "Fantasy",
+        "Fauvism",
+        "Film noir",
+        "Glitch art",
+        "Impressionism",
+        "Industrial",
+        "Maximalism",
+        "Minimalism",
+        "Modern art",
+        "Modernism",
+        "Neo-expressionism",
+        "Pointillism",
+        "Psychedelic",
+        "Science fiction",
+        "Steampunk",
+        "Surrealism",
+        "Synthetism",
+        "Synthwave",
+        "Vaporwave"
+      ],
+      "probability": 0.8
+    },
+    "Techniques": {
+      "entries": [
+        "Acrylic paint",
+        "Bold lines",
+        "Chiaroscuro",
+        "Color shift art",
+        "Daguerreotype",
+        "Digital fractal",
+        "Doodle drawing",
+        "Double exposure portrait",
+        "Fresco",
+        "Geometric pen",
+        "Halftone",
+        "Ink",
+        "Light painting",
+        "Oil paint",
+        "Paint splattering",
+        "Painting",
+        "Palette knife",
+        "Photo manipulation",
+        "Scribble texture",
+        "Sketch",
+        "Splattering",
+        "Stippling",
+        "Watercolor"
+      ],
+      "probability": 0.7
+    },
+    "Themes": {
+      "entries": [
+        "3d",
+        "Anime",
+        "Cartoon",
+        "Cinematic",
+        "Comic book",
+        "Concept art",
+        "Cyber matrix",
+        "Digital art",
+        "Flat design",
+        "Geometric",
+        "Glassmorphism",
+        "Glitch graphic",
+        "Graffiti",
+        "Graphic",
+        "Hyper realistic",
+        "Interior design",
+        "Line gradient",
+        "Low poly",
+        "Newspaper collage",
+        "Optical illusion",
+        "Pattern pixel",
+        "Pixel art",
+        "Pop art",
+        "Product photo",
+        "Psychedelic background",
+        "Psychedelic wonderland",
+        "Scandinavian",
+        "Splash images",
+        "Stamp",
+        "Trompe l'oeil",
+        "Vector look",
+        "Wireframe"
+      ],
+      "probability": 0.9
+    }
+  }
+}
