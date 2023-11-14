@@ -1,0 +1,352 @@
+absl-py: A set of Python libraries, including support for logging, flags, and testing.
+affine: A package for computing affine transformations and applying them to images.
+aiohttp: A Python 3.6+ async HTTP client/server framework.
+aiosignal: An asynchronous signal handling module for Python.
+analytics-python: A Python library for interacting with Google Analytics data.
+anyio: A high-level library for writing concurrent code in Python.
+anytree: A Python library for working with tree data.
+argcomplete: A Python library for providing auto-completion for command-line arguments.
+argon2-cffi-bindings: A Python library for argon2 password hashing using CFFI.
+argon2-cffi: A Python library for argon2 password hashing using CFFI.
+arviz: A Python library for statistical modeling and visualization.
+asn1crypto: A Python library for working with ASN.1 data.
+asttokens: A Python library for tokenizing Python ASTs.
+async-timeout: A Python library for asynchronous timeouts.
+attrs: A Python library for adding type-hints and other features to classes.
+audioread: A Python library for reading and writing audio files.
+babel: A Python library for internationalization and localization.
+backcall: A Python library for decorating functions to be called back later.
+backoff: A Python library for implementing exponential backoff.
+backports.zoneinfo: A Python library for backporting the zoneinfo database to Python 2.7 and 3.4.
+basemap-data: A package of basemap data files.
+basemap: A Python library for plotting geographic data.
+bcrypt: A Python library for password hashing using bcrypt.
+beautifulsoup4: A Python library for parsing and manipulating HTML and XML documents.
+bleach: A Python library for cleaning and sanitizing HTML.
+blinker: A Python library for implementing a signal/slot system.
+blis: A Python library for working with BLAS and LAPACK.
+bokeh: A Python library for creating interactive data visualizations.
+branca: A Python library for creating interactive maps with Leaflet.js.
+brotli: A Python library for brotli compression and decompression.
+cachetools: A Python library for providing memoization and caching functionality.
+cairocffi: A Python library for binding to the Cairo graphics library using CFFI.
+cairosvg: A Python library for rendering SVG files using cairocffi.
+camelot-py: A Python library for extracting tables from PDF files.
+catalogue: A Python library for providing a catalog of objects.
+certifi: A Python library for providing trusted certificates for HTTPS.
+cffi: A Python library for calling C code from Python.
+chardet: A Python library for detecting the encoding of text files.
+charset-normalizer: A Python library for normalizing character encodings.
+click-plugins: A Python library for extending the Click command-line library with plugins.
+click: A Python library for creating command-line interfaces.
+cligj: A Python library for parsing and generating JSON command-line arguments.
+cloudpickle: A Python library for pickling and unpickling objects in a way that is compatible with different Python versions and platforms.
+cmudict: A Python library for accessing the CMU Pronouncing Dictionary.
+comm: A Python library for providing a unified interface to different communication channels.
+compressed-rtf: A Python library for reading and writing compressed RTF files.
+countryinfo: A Python library for providing information about countries.
+cryptography: A Python library for providing cryptographic operations.
+cssselect2: A Python library for selecting CSS selectors from HTML documents.
+cycler: A Python library for creating color cycles.
+cymem: A Python library for monitoring the memory usage of Python objects.
+cython: A Python language extension that allows Python code to be compiled to C code.
+databricks-sql-connector: A Python library for connecting to Databricks SQL.
+dbus-python: A Python library for binding to the D-Bus inter-process communication system.
+debugpy: A Python library for providing remote debugging support for Python.
+decorator: A Python library for creating Python decorators.
+defusedxml: A Python library for safely parsing XML data.
+deprecat: A Python library for deprecating code.
+dill: A Python library for pickling and unpickling Python objects in a way that is compatible with different Python versions and platforms.
+distro-info: A Python library for providing information about the Linux distribution that is being used.
+dlib: A Python library for machine learning and computer vision.
+dnspython: A Python library for working with the Domain Name System (DNS).
+docx2txt: A Python library for converting DOCX files to text.
+bcdic: A Python library for working with Binary-Coded Decimal (BCD) data.
+ebooklib: A Python library for working with e-books in EPUB and PDF formats.
+einops: A Python library for manipulating and analyzing tensor data.
+email-validator: A Python library for validating email addresses.
+entrypoints: A Python library for managing entry points.
+et-xmlfile: A Python library for reading and writing XML files using ElementTree.
+exceptiongroup: A Python library for grouping exceptions together.
+exchange-calendars: A Python library for working with Exchange calendars.
+executing: A Python library for executing code and capturing output.
+extract-msg: A Python library for extracting MSG files.
+faker: A Python library for generating fake data.
+fastapi: A Python library for building fast, modern, and efficient APIs.
+fastjsonschema: A Python library for validating JSON data against JSON schemas.
+fastprogress: A Python library for displaying progress bars.
+ffmpeg-python: A Python library for binding to the FFmpeg multimedia framework.
+ffmpy: A Python library for converting and manipulating video and audio files.
+filelock: A Python library for locking files.
+fiona: A Python library for reading and writing geospatial data.
+flask-cachebuster: A Python library for adding cache busting to Flask applications.
+flask-cors: A Python library for adding Cross-Origin Resource Sharing (CORS) support to Flask applications.
+flask-login: A Python library for adding user login and authentication support to Flask applications.
+flask: A Python library for building web applications.
+folium: A Python library for building interactive maps with Leaflet.js.
+fonttools: A Python library for working with fonts.
+fpdf: A Python library for generating PDF files.
+frozenlist: A Python library for creating immutable lists.
+future: A Python library for backporting features from future versions of Python.
+fuzzywuzzy: A Python library for performing fuzzy string matching.
+gensim: A Python library for natural language processing (NLP).
+geographiclib: A Python library for performing geodetic calculations.
+geopandas: A Python library for working with geospatial data in a Pandas-like way.
+geopy: A Python library for working with geographic data.
+gradio: A Python library for building and deploying interactive machine learning interfaces.
+graphviz: A Python library for working with Graphviz graph visualization software.
+gtts: A Python library for converting text to speech.
+h11: A Python library for parsing and generating HTTP/1.1 messages.
+h2: A Python library for parsing and generating HTTP/2 messages.
+h5netcdf: A Python library for working with NetCDF4 and HDF5 files.
+h5py: A Python library for working with HDF5 files.
+hpack: A Python library for implementing the HPACK header compression algorithm.
+html5lib: A Python library for parsing and generating HTML5 documents.
+httpcore: A Python library for implementing HTTP/1.1 and HTTP/2 clients and servers.
+httptools: A Python library for parsing and generating HTTP messages.
+httpx: A Python library for making HTTP requests.
+hypercorn: A Python library for running ASGI applications.
+hyperframe: A Python library for working with HTTP/2 frames.
+idna: A Python library for working with Internationalized Domain Names (IDNs).
+imageio-ffmpeg: A Python library for reading and writing images and videos using FFmpeg.
+imageio: A Python library for reading and writing images and videos.
+imapclient: A Python library for working with IMAP servers.
+imgkit: A Python library for converting HTML to images.
+importlib-metadata: A Python library for reading metadata from Python packages.
+importlib-resources: A Python library for reading resources from Python packages.
+iniconfig: A Python library for reading INI configuration files.
+ipykernel: A Python library for implementing IPython kernels.
+ipython-genutils: A Python library for providing utility functions for IPython.
+ipython: A Python shell and interactive development environment.
+isodate: A Python library for parsing and generating ISO 8601 dates and times.
+itsdangerous: A Python library for signing and serializing data.
+jax: A high-performance numerical computation library for Python.
+jedi: A Python library for providing auto-completion and code inspection for Python code.
+jinja2: A Python library for template rendering.
+joblib: A Python library for parallelizing and caching Python code.
+json5: A Python library for working with JSON5 data.
+jsonpickle: A Python library for pickling and unpickling Python objects to and from JSON.
+jsonschema-specifications: A Python library for providing JSON schema specifications.
+jsonschema: A Python library for validating JSON data against JSON schemas.
+jupyter-client: A Python library for providing a client for Jupyter servers.
+jupyter-core: A Python library for providing core functionality for Jupyter applications.
+jupyter-server: A Python library for implementing Jupyter servers.
+jupyterlab-pygments: A Python library for providing Pygments syntax highlighting for JupyterLab.
+jupyterlab-server: A Python library for implementing JupyterLab servers.
+jupyterlab: A web-based user interface for Jupyter.
+keras: A Python library for building and training deep learning models.
+kerykeion: A Python library for providing a unified interface to different message queuing systems.
+kiwisolver: A Python library for solving geometric constraint satisfaction problems.
+korean-lunar-calendar: A Python library for working with the Korean lunar calendar.
+librosa: A Python library for music and audio analysis.
+llvmlite: A Python library for providing a lightweight LLVM binding for Python.
+loguru: A Python library for logging.
+lxml: A Python library for working with XML and HTML documents.
+markdown2: A Python library for converting Markdown to HTML.
+markdownify: A Python library for converting Markdown to plain text.
+markupsafe: A Python library for escaping and validating HTML markup.
+matplotlib-inline: A Python library for displaying Matplotlib plots inline in Jupyter notebooks.
+matplotlib-venn: A Python library for creating Venn diagrams with Matplotlib.
+matplotlib: A Python library for creating scientific plots.
+mistune: A Python library for converting Markdown to HTML.
+mizani: A Python library for providing aesthetic themes for ggplot2.
+mne: A Python library for processing and analyzing neuromagnetic data.
+monotonic: A Python library for providing monotonic timestamps.
+moviepy: A Python library for video processing and editing.
+mpmath: A Python library for high-precision mathematical calculations.
+mtcnn: A Python library for detecting and aligning faces in images.
+multidict: A Python library for working with multi-valued dictionaries.
+munch: A Python library for working with nested data structures.
+murmurhash: A Python library for implementing the MurmurHash3 hash function.
+mutagen: A Python library for working with audio metadata.
+nashpy: A Python library for solving game theory problems.
+nbclassic: A Python library for providing a classic Jupyter notebook experience.
+nbclient: A Python library for providing a client for Jupyter servers.
+nbconvert: A Python library for converting Jupyter notebooks to different formats.
+nbformat: A Python library for working with the format of Jupyter notebooks.
+nest-asyncio: A Python library for making asyncio code compatible with Python 2.7.
+networkx: A Python library for working with graph data.
+nltk: A Python library for natural language processing (NLP).
+notebook-shim: A Python library for providing a shim for Jupyter notebooks.
+notebook: A Python library for providing a notebook interface.
+numba: A Python library for compiling Python code to machine code.
+numexpr: A Python library for evaluating mathematical expressions in NumPy arrays.
+numpy-financial: A Python library for providing financial functions for NumPy arrays.
+numpy: A Python library for scientific computing.
+odfpy: A Python library for working with OpenDocument Format (ODF) files.
+olefile: A Python library for working with OLE compound files.
+opencv-python: A Python binding for the OpenCV computer vision library.
+openpyxl: A Python library for working with Excel spreadsheets.
+opt-einsum: A Python library for optimizing Einstein summation expressions.
+orjson: A Python library for fast and efficient JSON serialization and deserialization.
+oscrypto: A Python library for providing cryptographic operations.
+packaging: A Python library for packaging Python distributions.
+pandas: A Python library for data analysis and manipulation.
+pandocfilters: A Python library for providing filters for Pandoc.
+paramiko: A Python library for connecting to and managing SSH servers.
+parso: A Python library for parsing Python code.
+pathy: A Python library for working with file paths.
+patsy: A Python library for describing statistical models.
+pdf2image: A Python library for converting PDF files to images.
+pdfkit: A Python library for converting HTML to PDF.
+pdfminer.six: A Python library for extracting text and images from PDF files.
+pdfplumber: A Python library for extracting text and images from PDF files.
+pdfrw: A Python library for working with PDF files.
+pexpect: A Python library for interacting with interactive programs.
+pickleshare: A Python library for sharing pickled objects between different processes.
+pillow: A Python library for working with images.
+pip: A Python package installer.
+pkgutil-resolve-name: A Python library for resolving package names.
+platformdirs: A Python library for providing platform-specific directories.
+plotly: A Python library for creating interactive data visualizations.
+plotnine: A Python library for providing a ggplot2-like interface for data visualization.
+pluggy: A Python library for implementing plugins.
+pooch: A Python library for downloading and caching files.
+preshed: A Python library for providing pre-hashed values.
+priority: A Python library for implementing priority queues.
+proglog: A Python library for implementing a distributed log.
+prometheus-client: A Python library for implementing Prometheus clients.
+prompt-toolkit: A Python library for providing a rich prompt interface.
+pronouncing: A Python library for pronouncing words.
+psutil: A Python library for monitoring system processes.
+ptyprocess: A Python library for working with pseudo-terminals.
+pure-eval: A Python library for evaluating Python expressions.
+py: A Python library for providing a Python interpreter.
+pyaudio: A Python library for working with audio.
+pycountry: A Python library for providing information about countries.
+pycparser: A Python library for parsing C code.
+pycryptodome: A Python binding for the OpenSSL cryptography library.
+pycryptodomex: A Python binding for the OpenSSL cryptography library.
+pydantic: A Python library for data validation and serialization.
+pydot: A Python library for working with graphviz dot files.
+pydub: A Python library for working with audio files.
+pydyf: A Python library for working with DYF files.
+pygments: A Python library for syntax highlighting.
+pygobject: A Python binding for the GObject library.
+pygraphviz: A Python library for working with graphviz graph visualization software.
+pyjwt: A Python library for working with JSON Web Tokens (JWTs).
+pylog: A Python library for logging.
+pyluach: A Python library for working with the Hebrew calendar.
+pymc3: A Python library for Bayesian statistical modeling.
+pymupdf: A Python binding for the MuPDF PDF library.
+pynacl: A Python library for cryptography.
+pyopenssl: A Python binding for the OpenSSL cryptography library.
+pypandoc: A Python library for converting documents with Pandoc.
+pyparsing: A Python library for parsing text.
+pypdf2: A Python library for working with PDF files.
+pyphen: A Python library for hyphenating words.
+pyproj: A Python library for working with geodetic projections.
+pyprover: A Python library for proving mathematical theorems.
+pyshp: A Python library for working with shapefiles.
+pyswisseph: A Python binding for the Swiss Ephemeris library.
+pytesseract: A Python binding for the Tesseract OCR library.
+pytest: A Python library for testing Python code.
+pyth3: A Python library for providing a Python 3 interpreter.
+python-apt: A Python library for managing APT packages.
+python-dateutil: A Python library for working with dates and times.
+python-docx: A Python library for working with Microsoft Word documents.
+python-dotenv: A Python library for loading environment variables from a .env file.
+python-multipart: A Python library for working with multipart messages.
+python-pptx: A Python library for working with Microsoft PowerPoint presentations.
+pyttsx3: A Python library for text-to-speech.
+pytz: A Python library for working with time zones.
+pywavelets: A Python library for working with wavelets.
+pyxlsb: A Python library for working with Excel spreadsheets.
+pyyaml: A Python library for working with YAML data.
+pyzbar: A Python library for decoding QR and barcodes.
+pyzmq: A Python binding for the ZeroMQ messaging library.
+qrcode: A Python library for generating QR codes.
+rarfile: A Python library for working with RAR archive files.
+rasterio: A Python library for working with geospatial raster data.
+rdflib: A Python library for working with RDF data.
+referencing: A Python library for implementing reference counting.
+regex: A Python library for working with regular expressions.
+reportlab: A Python library for generating PDF reports.
+requests-unixsocket: A Python library for making HTTP requests over Unix sockets.
+requests: A Python library for making HTTP requests.
+resampy: A Python library for resampling audio signals.
+rpds-py: A Python binding for the Redis Persistence Data Structure (PDS) library.
+scikit-image: A Python library for image processing.
+scikit-learn: A Python library for machine learning.
+scipy: A Python library for scientific computing.
+seaborn: A Python library for statistical data visualization.
+semver: A Python library for parsing and validating Semantic Versioning (SemVer) strings.
+send2trash: A Python library for sending files to the trash.
+sentencepiece: A Python library for subword tokenization.
+setuptools: A Python library for building and distributing Python packages.
+shap: A Python library for explaining machine learning models.
+shapely: A Python library for working with geometric objects.
+six: A Python library for providing compatibility between Python 2 and Python 3.
+slicer: A Python library for slicing and indexing NumPy arrays.
+smart-open: A Python library for opening files in a smart way.
+sniffio: A Python library for sniffing the type of a file.
+snowflake-connector-python: A Python library for connecting to Snowflake.
+snuggs: A Python library for providing a simple interface to different database systems.
+sortedcontainers: A Python library for providing sorted containers.
+soundfile: A Python library for reading and writing audio files.
+soupsieve: A Python library for parsing HTML and XML documents.
+spacy-legacy: A Python library for natural language processing (NLP).
+spacy: A Python library for natural language processing (NLP).
+speechrecognition: A Python library for speech recognition.
+srsly: A Python library for serializing and deserializing Python objects.
+stack-data: A Python library for working with stacked data.
+starlette: A Python library for building asyncio-based web applications.
+statsmodels: A Python library for statistical modeling.
+svglib: A Python library for working with SVG files.
+svgwrite: A Python library for creating SVG files.
+sympy: A Python library for symbolic mathematics.
+tables: A Python library for working with HDF5 tables.
+tabula: A Python library for extracting tables from PDF files.
+tabulate: A Python library for formatting data in tables.
+tenacity: A Python library for implementing retry and backoff strategies.
+terminado: A Python library for managing asynchronous tasks.
+text-unidecode: A Python library for converting Unicode characters to ASCII characters.
+textblob: A Python library for natural language processing (NLP).
+textract: A Python library for extracting text from PDF files.
+theano-pymc: A Python library for combining Theano and PyMC.
+thinc: A Python library for building NLP components.
+threadpoolctl: A Python library for managing thread pools.
+thrift: A Python library for implementing RPC services.
+tifffile: A Python library for reading and writing TIFF files.
+tinycss2: A Python library for parsing and manipulating CSS.
+toml: A Python library for working with TOML files.
+tomli: A Python library for working with TOML files.
+toolz: A Python library for functional programming tools.
+torch: A Python library for deep learning.
+torchaudio: A Python library for working with audio data using PyTorch.
+torchtext: A Python library for working with natural language processing data using PyTorch.
+torchvision: A Python library for working with computer vision data using PyTorch.
+tornado: A Python web framework.
+tqdm: A Python library for displaying progress bars.
+traitlets: A Python library for implementing declarative configuration.
+trimesh: A Python library for working with three-dimensional meshes.
+typer: A Python library for creating type-hinted command-line interfaces.
+typing-extensions: A Python library for providing additional typing features.
+tzlocal: A Python library for getting the local time zone.
+ujson: A Python library for fast and efficient JSON serialization and deserialization.
+unattended-upgrades: A Python library for unattendedly upgrading Debian and Ubuntu systems.
+urllib3: A Python library for making HTTP requests.
+uvicorn: A Python library for running ASGI applications.
+uvloop: A Python library for implementing a high-performance asyncio event loop.
+wand: A Python binding for the ImageMagick library.
+wasabi: A Python library for displaying formatted text.
+watchfiles: A Python library for watching files for changes.
+wcwidth: A Python library for calculating the width of Unicode characters.
+weasyprint: A Python library for converting HTML to PDF.
+webencodings: A Python library for working with web encodings.
+websocket-client: A Python library for implementing WebSocket clients.
+websockets: A Python library for implementing WebSocket servers and clients.
+werkzeug: A Python library for building web applications.
+wheel: A Python library for building and distributing wheel packages.
+wordcloud: A Python library for generating word clouds.
+wrapt: A Python library for decorating and replacing functions and classes.
+wsproto: A Python library for implementing the WebSocket protocol.
+xarray-einstats: A Python library for providing Einstein summation functionality for Xarray.
+xarray: A Python library for working with multi-dimensional arrays.
+xgboost: A Python library for gradient boosting.
+xlrd: A Python library for reading Excel spreadsheets.
+xlsxwriter: A Python library for writing Excel spreadsheets.
+xml-python: A Python library for working with XML.
+yarl: A Python library for working with URLs.
+zipp: A Python library for working with zip archives.
+zopfli: A Python library for compressing files with Zopfli.
